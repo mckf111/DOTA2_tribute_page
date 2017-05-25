@@ -1,0 +1,38 @@
+body{
+  margin: 30px;
+}
+
+#img_div{
+  text-align: center;
+}
+
+#dota_img{
+  width: 1024px;
+  height: auto;
+}
+
+#title{
+  font-size: 80px;
+}
+
+#subtitle, #que1, #que2{
+  font-family: "Oswald", Monospace;
+}
+
+#caption{
+  font-family: "Open Sans", Monospace;
+  font-size: 15px;
+}
+
+#que1, #que2{
+  font-size: 30px;
+}
+
+#introduction, #history{
+  font-size: 15px;
+}
+
+#info{
+  font-family: "Indie Flower", Monospace;
+  font-size: 25px;
+}
